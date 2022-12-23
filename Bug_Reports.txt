@@ -1,0 +1,10 @@
+|ID|Version|Environment|Summary|STR|Expected Result|Actual Result|Severity|Priority|Attachments|
+  
+  or 
+Environment:
+ID:
+Summary:
+Steps to reproduce:
+Actual Result:
+Expected Result:
+Attachments:
